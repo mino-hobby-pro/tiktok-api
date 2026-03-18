@@ -11,6 +11,6 @@
     "tiktok-scraper": "^1.4.36"
   },
   "engines": {
-    "node": ">=18"
+    "node": "24.x"
   }
 }
