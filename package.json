@@ -1,16 +1,8 @@
 {
-  "name": "tiktok-trending-api",
+  "name": "tiktok-scraper-vercel",
   "version": "1.0.0",
-  "description": "Scraping TikTok trending videos using tiktok-scraper",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "type": "module",
   "dependencies": {
-    "express": "^4.19.2",
-    "tiktok-scraper": "^1.4.36"
-  },
-  "engines": {
-    "node": "24.x"
+    "node-fetch": "2.6.7"
   }
 }
